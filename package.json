@@ -1,0 +1,14 @@
+{
+  "name": "kanae",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A high-level DOM manipulation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.6.1"
+  }
+}
