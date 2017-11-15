@@ -1,6 +1,6 @@
 {
   "name": "kanae",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A high-level DOM manipulation framework",
   "main": "index.js",
   "scripts": {
